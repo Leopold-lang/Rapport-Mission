@@ -1,0 +1,6 @@
+ Ajouter et pousser le fichier avec Git Bash
+ cd ~/rapport-mission_cyber/rapport-mission_1 
+ Puis exécute ces commandes dans cet ordre :
+ git add .
+git commit -m "Ajout du rapport de mission"
+git push
